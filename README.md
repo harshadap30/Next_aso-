@@ -1,6 +1,16 @@
 # Next_aso-
 
-https://share.streamlit.io/harshadap30/next_aso-/main/Deploy_Crome_Reviews.py
+
+Problem statement - There are times when a user writes Good, Nice App or any other positive text, in the review and gives 1-star rating. Your goal is to identify the reviews where the semantics of review text does not match rating. 
+
+Your goal is to identify such ratings where review text is good, but rating is negative- so that the support team can point this to users. 
+
+Deploy it using - Flask/Streamlit etc and share the live link. 
+
+Important
+In this data app - the user will upload a csv and you would be required to display the reviews where the content doesn’t match ratings.  This csv will be in the same format as the DataSet Link
+
+Github link: https://share.streamlit.io/harshadap30/next_aso-/main/Deploy_Crome_Reviews.py
 
 
 Question 3: Ranking Data - Understanding the co-relation between keyword rankings with description or any other attribute.
