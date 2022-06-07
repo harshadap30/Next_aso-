@@ -10,7 +10,7 @@ Deploy it using - Flask/Streamlit etc and share the live link.
 Important
 In this data app - the user will upload a csv and you would be required to display the reviews where the content doesn’t match ratings.  This csv will be in the same format as the DataSet Link
 
-Github link: https://share.streamlit.io/harshadap30/next_aso-/main/Deploy_Crome_Reviews.py
+Github link: (https://share.streamlit.io/harshadap30/next_aso-/main/Crome_review.py)
 
 
 Question 3: Ranking Data - Understanding the co-relation between keyword rankings with description or any other attribute.
